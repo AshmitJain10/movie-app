@@ -1,5 +1,8 @@
 # React Movie App - ReactJS Projects
 
+
+![image](https://github.com/AshmitJain10/movie-app/assets/110483586/eca39462-b447-426a-8812-a117d4f99cbd)
+
 ![](movie.gif)
 
 ### APIs Used
